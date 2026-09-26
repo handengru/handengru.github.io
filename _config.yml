@@ -1,0 +1,14 @@
+theme: jekyll-theme-minimal
+title: handengru
+description: 研究生 | 高光谱图像分类
+# 头像（后面上传图片再取消注释，现在先注释）
+# logo: assets/avatar.jpg
+navigation:
+  - name: Home
+    link: /
+  - name: Publications
+    link: /publications
+  - name: ORCID
+    link: https://orcid.org/0009-0009-0378-5281
+  - name: Google Scholar
+    link: https://scholar.google.com/citations?user=MF8w9iQAAAAJ&hl=zh-CN&authuser=1
