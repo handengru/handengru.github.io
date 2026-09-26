@@ -1,6 +1,7 @@
 # Hi, I'm handengru
 
-I'm a two-year master's student in the Intelligent Information Processing Innovation Team at Henan Institute of Science and Technology, supervised by Prof. Jinliang An. My research focuses on hyperspectral image classification and deep learning in remote sensing.Thank you for visiting my personal academic website.
+I'm a two-year master's student in the Intelligent Information Processing Innovation Team at Henan Institute of Science and Technology, supervised by Prof. Jinliang An. My research focuses on hyperspectral image classification and deep learning in remote sensing.Thank you for visiting my personal academic website！
+
 Email: handengru@stu.hist.edu.cn
 
 ## Research Interests
