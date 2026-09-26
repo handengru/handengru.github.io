@@ -1,6 +1,6 @@
 # Hi, I'm handengru
 
-I am a graduate student focusing on hyperspectral image classification.
+I am a graduate student focusing on hyperspectral image classification and deep learning.
 
 ## Research Interests
 - Remote Sensing
