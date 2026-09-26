@@ -9,8 +9,8 @@ Email: handengru@stu.hist.edu.cn
 - Deep learning
 
 ## Education
-- 2024.09 - Present M.S., Henan Institute of Science and Technology, supervised by Prof. Jinliang An.
-- 2020.09 - 2024.06 B.S., Henan Institute of Science and Technology.
+- 2025.09 - Present M.S., Henan Institute of Science and Technology, supervised by Prof. Jinliang An.
+- 2021.09 - 2025.06 B.S., Henan Institute of Science and Technology.
 
 ## Publications
 1. J. An*, L. Dai, **D. Han**, W. Zhang and X. Zhang, "LRCS-Mamba: Low-Rank Mamba with Content-Aware Sparse Scanning for Hyperspectral Image Classification," IEEE Transactions on Geoscience and Remote Sensing (TGRS), (SCI Q1 Top, IF=9.4). [Paper]
