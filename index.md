@@ -4,6 +4,11 @@ I'm a two-year master's student in the Intelligent Information Processing Innova
 
 Email: handengru@stu.hist.edu.cn
 
+🔗 Profiles:
+- [ORCID](https://orcid.org/0009-0009-0378-5281)
+- [Google Scholar](https://scholar.google.com/citations?user=MF8w9iQAAAAJ&hl=zh-CN&authuser=1)
+- [GitHub](https://github.com/handengru)
+
 ## Research Interests
 - Remote Sensing
 - Deep learning
