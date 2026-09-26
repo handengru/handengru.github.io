@@ -1,7 +1,6 @@
 theme: jekyll-theme-minimal
 title: Dengru Han
-description: 研究生 | 高光谱图像分类
-# 头像（后面上传图片再取消注释，现在先注释）
+description: Master's Student | Hyperspectral Image Classification
 logo: assets/avatar.jpg
 navigation:
   - name: Home
@@ -12,3 +11,5 @@ navigation:
     link: https://orcid.org/0009-0009-0378-5281
   - name: Google Scholar
     link: https://scholar.google.com/citations?user=MF8w9iQAAAAJ&hl=zh-CN&authuser=1
+  - name: Github
+    link: https://github.com/handengru
