@@ -13,3 +13,12 @@ navigation:
     link: https://scholar.google.com/citations?user=MF8w9iQAAAAJ&hl=zh-CN&authuser=1
   - name: Github
     link: https://github.com/handengru
+
+# 页脚社交链接（会显示在页面最底部）
+social_links:
+  - name: ORCID
+    link: https://orcid.org/0009-0009-0378-5281
+  - name: Google Scholar
+    link: https://scholar.google.com/citations?user=MF8w9iQAAAAJ&hl=zh-CN&authuser=1
+  - name: Github
+    link: https://github.com/handengru
